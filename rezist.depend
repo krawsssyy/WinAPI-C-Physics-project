@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1487838593 source:d:\hax\code blockz\rezistoare\rezist\main.cpp
+	<iostream>
+	<tchar.h>
+	<windows.h>
+	<string>
+	<stdlib.h>
+
+1487838741 source:d:\info+tic\hax\code blockz\rezistoare\rezist\main.cpp
+	<iostream>
+	<tchar.h>
+	<windows.h>
+	<string>
+	<stdlib.h>
+
